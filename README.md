@@ -8,7 +8,7 @@ This repository contains security audit reports for Pell Network's smart contrac
   - `PeckShield-Audit-Report-Megapool-v1.0.pdf`: Security audit report for the Megapool smart contracts
 - `restaking/`
   - `PeckShield-Audit-Report-PellNetwork-v1.0.pdf`: Security audit report for the Restaking smart contracts
-  - `Pell Network_FINAL_20240428.pdf`: Additional documentation for Pell Network
+  - `Pell Network_FINAL_20240428.pdf`: Security audit report for the Restaking smart contracts
 
 ## About the Audits
 
